@@ -3,7 +3,7 @@
 - **项目名称**: FunRadiusP
 - **技术栈**: Next.js + TypeScript + Tailwind CSS
 - **项目类型**: 静态博客网站
-- **开源地址**: <https://github.com/PfolgCodeDump/FunRadiusP> [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+- **开源地址**: <https://github.com/igugyj/FunRadiusP>  MIT
 
 > [!NOTE]
 > 本项目90%以上代码由AI生成
