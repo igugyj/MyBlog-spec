@@ -6,7 +6,9 @@
 - **开源地址**: <https://github.com/igugyj/FunRadiusP>  MIT
 
 > [!NOTE]
-> 本项目90%以上代码由AI生成
+> 本项目代码：100% AI生成
+>
+> 本站已启用Cloudflare DNS加速（China 减速）
 
 ## 资源来源
 
