@@ -15,7 +15,7 @@
 ### FunRadiusP
 
 - **语言**：TypeScript
-- **许可证**：CC BY-NC-SA 4.0
+- **许可证**：MIT
 - **描述**：花哨的静态博客生成器
 - **链接**：[GitHub](https://github.com/PfolgCodeDump/FunRadiusP)
 - **备注**: 静态博客的安全问题就当氛围灯吧。
@@ -52,7 +52,7 @@
 ### StickersManager
 
 - **语言**：C++, Python
-- **许可证**：CC-BY-4.0
+- **许可证**：MIT
 - **描述**：Windows10/11 Stickers Manager
 - **链接**：[GitHub1](https://github.com/igugyj/StickersManager2) · [GitHub2](https://github.com/igugyj/StickersManager)
 

@@ -8,7 +8,7 @@
 > [!NOTE]
 > 本项目代码：100% AI生成
 >
-> 本站已启用Cloudflare DNS加速（China 减速）
+> 本站已启用Cloudflare CDN加速（China 减速）
 
 ## 资源来源
 
