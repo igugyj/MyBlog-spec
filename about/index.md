@@ -2,7 +2,7 @@
 
 <div style="text-align: left;">
 
-> A rookie | Seeking between the ebb and flow of binary tides.
+> Seeking between the ebb and flow of binary tides.
 
 - **Location**: Orion Arm of the Milky Way
 - **Identity**: Student
