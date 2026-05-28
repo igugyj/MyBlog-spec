@@ -14,7 +14,7 @@
 
 |       资源        |                                                                     说明                                                                     |
 | :---------------: | :------------------------------------------------------------------------------------------------------------------------------------------: |
-|    **Domain**     |  pfolg.qzz.io - [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)</p> pg25-lsae.eu.org - [EU.org](https://nic.eu.org/) |
+|    **Domain**     |<p>pfolg.qzz.io [![This Website is Powered by DigitalPlat FreeDomain Get a free domain from DigitalPlat.](https://img.shields.io/badge/DigitalPlat-Get%20a%20free%20domain%20from%20DigitalPlat.-2563eb?style=flat-square&logo=databricks&logoColor=ffffff)](https://dash.domain.digitalplat.org/signup?ref=z2neP6YGTJ)</p>  pg25-lsae.eu.org - [EU.org](https://nic.eu.org/) |
 |     **字体**      |                                    [ssubframe7536/maple-font:](https://github.com/subframe7536/maple-font) Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项                                 |
 |    **404页面**    |                         [[源码分享]纱雾404❤️二次元风404页面源码！_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1bb421a7rT/)                         |
 |  **Live2D驱动**   |                                  [oh-my-live2d/oh-my-live2d:](https://github.com/oh-my-live2d/oh-my-live2d) 应用于浏览器环境且开箱即用的Live2D组件, 它支持所有版本的Live2D模型, 使用方式足够简单并且高可自定义, 可以快速为您的个人网站添加Live2D看板娘, 使您的个人网站变得更具有特色.                                  |
