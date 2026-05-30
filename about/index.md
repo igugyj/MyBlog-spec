@@ -4,7 +4,6 @@
 
 > Seeking between the ebb and flow of binary tides.
 
-- **Location**: Orion Arm of the Milky Way
 - **Identity**: Student
 - **Email**: hello[at]pg25-lsae.eu.org (receiving only)
 
