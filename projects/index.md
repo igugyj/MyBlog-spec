@@ -1,5 +1,7 @@
 > [!NOTE]
 > 本页内容更新可能不及时，请以社区页内容为准。
+>
+> 想更全面了解我？前往：[Gallery](https://worksgallery.pages.dev)
 
 ---
 
@@ -17,7 +19,7 @@
 - **语言**：TypeScript
 - **许可证**：MIT
 - **描述**：花哨的静态博客生成器
-- **链接**：[GitHub](https://github.com/PfolgCodeDump/FunRadiusP)
+- **链接**：[GitHub](https://github.com/igugyj/FunRadiusP)
 - **备注**: 静态博客的安全问题就当氛围灯吧。
 
 ---
