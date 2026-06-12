@@ -2,12 +2,12 @@
 
 <div style="text-align: left;">
 
-> Seeking between the ebb and flow of binary tides.
+> 于二进制潮汐中求索……
 
-- **Identity**: Student
-- **Email**: hello[at]pg25-lsae.eu.org (receiving only)
+- 成都信息工程大学 · 本科 · 大气科学
+- **Email**: hello[at]pg25-lsae.eu.org (仅接收)
 
-Connect: Feel free to connect and collaborate!
+欢迎联系！我是个 `ISTJ` 社恐，可能连话都说不利索的那种，我的计算机能力少量来自于课程，大部分是自学的，这直接导致了我在专业里是吊车尾，目前在焦虑于人生选择中……
 
 ## Skills & Tools
 
