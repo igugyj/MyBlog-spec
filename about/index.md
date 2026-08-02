@@ -3,6 +3,7 @@
 <div style="text-align: left;">
 
 ---
+
 你好，我是 `Pfolg`！
 
 <details>
@@ -16,6 +17,7 @@
 当然了，大部分时候人们是不能直接看出它的含义的，我非常自信这点。😎
 
 我在网上的社交不多，欢迎联系，~~你能找到我的联系方式吗？😜~~
+
 </details>
 
 ## Skills & Tools
@@ -75,6 +77,14 @@
 
 </details>
 
+<details>
+<summary><b>ACG</b></summary>
+
+<!-- [![Bangumi](https://img.shields.io/badge/Bangumi-F091C9?style=flat-square)](http://bangumi.tv/user/1203969) -->
+
+<a href="http://bangumi.tv/user/1203969"><img width="40%" src="http://bangumi.tv/chart/img/1203969" border="0" alt="bangumi" /></a>
+
+</details>
 </div>
 
 ---
