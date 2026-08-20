@@ -2,6 +2,9 @@
 
 - 03月：学习了C语言，学习了数据结构
 - 04月：React简单了解了一下，用TRAE全程AI开发了用Next.js + TypeScript + Tailwind CSS的静态博客（v3），完全重构了v2的Python+Jinja2博客
+- 05月：破解了一个Android软件，借助AI开发了一个Android APP
+- 07月：408基本学习完毕，对互联网有了更深入认识
+- 08月：接触DSH。
 
 ---
 
