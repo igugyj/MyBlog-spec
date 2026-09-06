@@ -18,6 +18,16 @@
 
 我在网上的社交不多，欢迎联系，~~你能找到我的联系方式吗？😜~~
 
+---
+
+非计科专业，ISTJ——线上线上几乎都是，如果熟络了就…… （嗯，你懂的
+
+接触互联网较晚，似乎比同龄人晚一个代际？但不妨碍我探索这个精彩的世界。
+
+爱好AG（Anime & Game），喜欢玩原神、崩铁等，仅仅自己玩，从不参与社区。
+
+自认为信息检索能力较强，经常在找资源的时候找到一些`电脑配件`相关内容，收藏夹++
+
 </details>
 
 ## Skills & Tools
@@ -37,8 +47,7 @@
 <summary><b>Preferred Tools</b></summary>
 
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=vscode&logoColor=white)](https://code.visualstudio.com)
-[![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)](https://jetbrains.com/pycharm)
-[![CLion](https://img.shields.io/badge/CLion-000000?style=flat-square&logo=clion&logoColor=white)](https://jetbrains.com/clion)
+[![DSH](https://img.shields.io/badge/DeepSeek_Harness-4D6BFE?style=flat-square&logo=deepseek&logoColor=white)](https://github.com/deepseek-ai/deepseek-harness)
 [![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=flat-square&logo=gimp&logoColor=white)](https://gimp.org)
 [![Kdenlive](https://img.shields.io/badge/Kdenlive-108C8C?style=flat-square&logo=kdenlive&logoColor=white)](https://kdenlive.org)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com)
@@ -64,6 +73,8 @@
 
 [![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=flat-square)](https://opencode.ai)
 [![Trae CN](https://img.shields.io/badge/Trae%20CN-412991?style=flat-square&logo=bytedance&logoColor=white)](https://trae.cn)
+[![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)](https://jetbrains.com/pycharm)
+[![CLion](https://img.shields.io/badge/CLion-000000?style=flat-square&logo=clion&logoColor=white)](https://jetbrains.com/clion)
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=dotnet&logoColor=white)](https://visualstudio.microsoft.com)
 [![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudioide&logoColor=white)](https://rstudio.com)
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)](https://developer.android.com/studio)
