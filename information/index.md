@@ -25,3 +25,17 @@
 |   **Logo Loop**   |                                                                                                                                                                                         [React Bits - Logo Loop](https://reactbits.dev/animations/logo-loop)                                                                                                                                                                                         |
 
 <!-- - **主页语句**: [Hitokoto](https://hitokoto.cn/) -->
+
+## 访问统计
+
+本站使用 **[Umami](https://umami.is/)** 进行访问统计。Umami 是一款注重隐私的开源分析工具，其设计理念是在不侵犯访客隐私的前提下，提供必要的页面访问趋势数据。
+
+| 特性 | 说明 |
+| :--- | :--- |
+| **无 Cookie** | 统计过程不依赖 Cookie，因此本站无需弹出 Cookie 同意横幅 |
+| **匿名化处理** | 不收集姓名、邮箱等个人身份信息，所有数据均为聚合后的匿名统计 |
+| **不跨站追踪** | 无法通过统计识别到具体个人，也不会跨网站追踪你的浏览行为 |
+| **IP 地址不存储** | IP 仅用于粗略定位（如国家/地区），随后即被丢弃，不会写入数据库 |
+| **尊重 DNT 信号** | 如果你的浏览器开启了“Do Not Track”，Umami 会尊重该选择，不进行统计 |
+
+> *统计服务通过 Cloudflare Worker 代理转发，数据由 Umami 官方托管服务处理。*
